@@ -1,4 +1,4 @@
-NVDA License
+DANISH
 
 NVDA is available under the GNU General Public License version 2, with two special exceptions.
 The exceptions are outlined in the sections "Non-GPL Components in Plugins and Drivers" and "Microsoft Distributable Code".
